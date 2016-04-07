@@ -1,0 +1,8 @@
+body {
+    padding-top: 70px;
+}
+
+.tip, .tip:hover, .tip:focus {
+    color: #000000;
+    text-decoration: none;
+}
