@@ -1,1 +1,1 @@
-# ci-admin
+# a web admin code by codeigniter framework
